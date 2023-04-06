@@ -1,1 +1,2 @@
-practising how to use github commands on linux
+practising how to use github commands on linux with VS code
+
